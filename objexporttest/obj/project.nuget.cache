@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9dUodFaRljvP2cglwqGHeXNcAO8EN6y+r+luC5UJD+Z2AGIuHCqdL2KzrH1RHfVbDV8yoNMMSdrroDDVDCPgvA==",
+  "success": true,
+  "projectFilePath": "C:\\GIT\\objexporttest\\objexporttest\\objexporttest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jaeha\\.nuget\\packages\\grasshopper\\7.18.22124.3001\\grasshopper.7.18.22124.3001.nupkg.sha512",
+    "C:\\Users\\jaeha\\.nuget\\packages\\rhinocommon\\7.18.22124.3001\\rhinocommon.7.18.22124.3001.nupkg.sha512"
+  ],
+  "logs": []
+}

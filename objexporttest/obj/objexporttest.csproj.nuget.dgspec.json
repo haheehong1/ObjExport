@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GIT\\objexporttest\\objexporttest\\objexporttest.csproj": {}
+  },
+  "projects": {
+    "C:\\GIT\\objexporttest\\objexporttest\\objexporttest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GIT\\objexporttest\\objexporttest\\objexporttest.csproj",
+        "projectName": "objexporttest",
+        "projectPath": "C:\\GIT\\objexporttest\\objexporttest\\objexporttest.csproj",
+        "packagesPath": "C:\\Users\\jaeha\\.nuget\\packages\\",
+        "outputPath": "C:\\GIT\\objexporttest\\objexporttest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jaeha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Grasshopper": {
+              "include": "Compile, Build",
+              "target": "Package",
+              "version": "[7.18.22124.3001, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

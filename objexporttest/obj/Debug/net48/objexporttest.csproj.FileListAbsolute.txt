@@ -1,0 +1,9 @@
+C:\GIT\objexporttest\objexporttest\bin\Debug\net48\objexporttest.gha
+C:\GIT\objexporttest\objexporttest\bin\Debug\net48\objexporttest.pdb
+C:\GIT\objexporttest\objexporttest\obj\Debug\net48\objexporttest.csproj.AssemblyReference.cache
+C:\GIT\objexporttest\objexporttest\obj\Debug\net48\objexporttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\objexporttest\objexporttest\obj\Debug\net48\objexporttest.AssemblyInfoInputs.cache
+C:\GIT\objexporttest\objexporttest\obj\Debug\net48\objexporttest.AssemblyInfo.cs
+C:\GIT\objexporttest\objexporttest\obj\Debug\net48\objexporttest.csproj.CoreCompileInputs.cache
+C:\GIT\objexporttest\objexporttest\obj\Debug\net48\objexporttest.gha
+C:\GIT\objexporttest\objexporttest\obj\Debug\net48\objexporttest.pdb
